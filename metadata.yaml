@@ -1,0 +1,38 @@
+_repo: Curious-Myths-of-the-Middle-Ages_36127
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baring-Gould, S. (Sabine)
+    aliases:
+    - Baring-Gould, Sabine
+    - Gould, Sabine Baring
+    - Gould, S. Baring
+    birthdate: 1834
+    deathdate: 1924
+    gutenberg_agent_id: '1766'
+    url: http://www.gutenberg.org/2009/agents/1766
+    wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
+description: ''
+gutenberg_issued: '2011-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36127'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legends -- History and criticism'
+- !lcsh 'Folklore'
+- !lcsh 'Tales, Medieval'
+- !lcc 'GR'
+- !lcc 'PN'
+tableOfContents: The wandering Jew -- Prester John -- The divining rod -- The seven
+  sleepers of Ephesus -- William Tell -- The dog Gellert -- Tailed men -- Antichrist
+  and Pope Joan -- The man in the moon -- The mountain of Venus -- Fatality of numbers
+  -- The terrestrial paradise.
+title: Curious Myths of the Middle Ages
+url: http://www.gutenberg.org/ebooks/36127
